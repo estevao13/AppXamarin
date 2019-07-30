@@ -1,0 +1,17 @@
+/Users/macbook/Projects/App02_Xamarin/App02_Xamarin/bin/Debug/netstandard2.0/App02_Xamarin.deps.json
+/Users/macbook/Projects/App02_Xamarin/App02_Xamarin/bin/Debug/netstandard2.0/App02_Xamarin.dll
+/Users/macbook/Projects/App02_Xamarin/App02_Xamarin/bin/Debug/netstandard2.0/ref/App02_Xamarin.dll
+/Users/macbook/Projects/App02_Xamarin/App02_Xamarin/bin/Debug/netstandard2.0/App02_Xamarin.pdb
+/Users/macbook/Projects/App02_Xamarin/App02_Xamarin/obj/Debug/netstandard2.0/App02_Xamarin.csprojAssemblyReference.cache
+/Users/macbook/Projects/App02_Xamarin/App02_Xamarin/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/macbook/Projects/App02_Xamarin/App02_Xamarin/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/macbook/Projects/App02_Xamarin/App02_Xamarin/obj/Debug/netstandard2.0/Master/Menu.xaml.g.cs
+/Users/macbook/Projects/App02_Xamarin/App02_Xamarin/obj/Debug/netstandard2.0/Pages/Perfil1.xaml.g.cs
+/Users/macbook/Projects/App02_Xamarin/App02_Xamarin/obj/Debug/netstandard2.0/Pages/Xamarin.xaml.g.cs
+/Users/macbook/Projects/App02_Xamarin/App02_Xamarin/obj/Debug/netstandard2.0/App02_Xamarin.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/App02_Xamarin/App02_Xamarin/obj/Debug/netstandard2.0/App02_Xamarin.AssemblyInfoInputs.cache
+/Users/macbook/Projects/App02_Xamarin/App02_Xamarin/obj/Debug/netstandard2.0/App02_Xamarin.AssemblyInfo.cs
+/Users/macbook/Projects/App02_Xamarin/App02_Xamarin/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/macbook/Projects/App02_Xamarin/App02_Xamarin/obj/Debug/netstandard2.0/App02_Xamarin.dll
+/Users/macbook/Projects/App02_Xamarin/App02_Xamarin/obj/Debug/netstandard2.0/ref/App02_Xamarin.dll
+/Users/macbook/Projects/App02_Xamarin/App02_Xamarin/obj/Debug/netstandard2.0/App02_Xamarin.pdb
