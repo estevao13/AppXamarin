@@ -57,3 +57,16 @@
 /Users/macbook/Projects/App02_Xamarin/App02_Xamarin.iOS/obj/iPhoneSimulator/Debug/App02_Xamarin.iOS.csproj.CopyComplete
 /Users/macbook/Projects/App02_Xamarin/App02_Xamarin.iOS/obj/iPhoneSimulator/Debug/App02_Xamarin.iOS.exe
 /Users/macbook/Projects/App02_Xamarin/App02_Xamarin.iOS/obj/iPhoneSimulator/Debug/App02_Xamarin.iOS.pdb
+/Users/macbook/Projects/App02_Xamarin/App02_Xamarin.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/optimized/Fundo.png
+/Users/macbook/Projects/App02_Xamarin/App02_Xamarin.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/optimized/Icon-60@2x.png
+/Users/macbook/Projects/App02_Xamarin/App02_Xamarin.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/optimized/Icon-60@3x.png
+/Users/macbook/Projects/App02_Xamarin/App02_Xamarin.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/optimized/Icon-76.png
+/Users/macbook/Projects/App02_Xamarin/App02_Xamarin.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/optimized/Icon-76@2x.png
+/Users/macbook/Projects/App02_Xamarin/App02_Xamarin.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/optimized/Icon-Small-40.png
+/Users/macbook/Projects/App02_Xamarin/App02_Xamarin.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/optimized/Icon-Small-40@2x.png
+/Users/macbook/Projects/App02_Xamarin/App02_Xamarin.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/optimized/Icon-Small-40@3x.png
+/Users/macbook/Projects/App02_Xamarin/App02_Xamarin.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/optimized/Icon-Small.png
+/Users/macbook/Projects/App02_Xamarin/App02_Xamarin.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/optimized/Icon-Small@2x.png
+/Users/macbook/Projects/App02_Xamarin/App02_Xamarin.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/optimized/Icon-Small@3x.png
+/Users/macbook/Projects/App02_Xamarin/App02_Xamarin.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/optimized/Logo.png
+/Users/macbook/Projects/App02_Xamarin/App02_Xamarin.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/optimized/Perfil.png
