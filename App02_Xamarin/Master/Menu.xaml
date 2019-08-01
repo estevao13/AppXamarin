@@ -1,4 +1,4 @@
-﻿<?xaml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
                   xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
                   xmlns:pag="clr-namespace:App02_Xamarin.Pages"
@@ -10,33 +10,34 @@
             <StackLayout>
                 <StackLayout BackgroundColor="#FFC926"
                              Padding="30">
-                    <Image Resources="Logo.png"
+                    <Image Source="Logo.png"
                            HorizontalOptions="Center"
-                           VerticalOptions="Center" />
+                           VerticalOptions="Center"
+                           Margin="45"/>
+                </StackLayout>
+
+                <StackLayout Spacing="20"> 
+                    <Button Text="Miguel de Icaza"
+                            FontSize="24"
+                            TextColor="White"
+                            BackgroundColor="Transparent"
+                            Clicked="GoPaginaPerfil1" />
+                    <Button Text="Joseph Hill"
+                            FontSize="24"
+                            TextColor="White"
+                            BackgroundColor="Transparent" />
+                    <Button Text="Nat Friedman"
+                            FontSize="24"
+                            TextColor="White"
+                            BackgroundColor="Transparent" />
+                    <Button Text="Xamarin"
+                            FontSize="24"
+                            TextColor="White"
+                            BackgroundColor="Transparent"
+                            Clicked="GoPaginaXamarin" />
                 </StackLayout>
             </StackLayout>
-            <!--
-            <StackLayout>
-                <Button Text="Miguel de Icaza"
-                        FontSize="24"
-                        TextColor="White"
-                        BackgroundColor="Transparent"
-                        Clicked="GoPaginaPerfil1" />
-                <Button Text="Joseph Hill"
-                        FontSize="24"
-                        TextColor="White"
-                        BackgroundColor="Transparent" />
-                <Button Text="Nat Friedman"
-                        FontSize="24"
-                        TextColor="White"
-                        BackgroundColor="Transparent" />
-                <Button Text="Xamarin"
-                        FontSize="24"
-                        TextColor="White"
-                        BackgroundColor="Transparent"
-                        Clicked="GoPaginaXamarin" />
-            </StackLayout>
-            -->
+
         </ContentPage>
     </MasterDetailPage.Master>
 

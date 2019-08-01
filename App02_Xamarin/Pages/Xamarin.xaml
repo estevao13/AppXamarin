@@ -1,5 +1,59 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="App02_Xamarin.Pages.Xamarin">
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App02_Xamarin.Pages.Xamarin">
     <ContentPage.Content>
+        <StackLayout Spacing="0">
+            <StackLayout Padding="30"
+                         BackgroundColor="#FFC926">
+                <Image Source="Logo.png"
+                       HorizontalOptions="Center"
+                       VerticalOptions="Center" />
+            </StackLayout>
+
+            <StackLayout HeightRequest="100"
+                         BackgroundColor="#0D1F2D"
+                         Padding="30">
+                <Label Text="Xamarin"
+                       VerticalOptions="Center"
+                       HorizontalOptions="Center"
+                       TextColor="White"
+                       FontSize="48" />
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal" Padding="20">
+                <RelativeLayout Margin="10, 0, 0, 0"
+                                HorizontalOptions="FillAndExpand">
+                    <BoxView x:Name="boxUm"
+                             BackgroundColor="#0D1F2D"
+                             WidthRequest="30"
+                             HeightRequest="30" />
+                    <BoxView x:Name="boxDois"
+                             BackgroundColor="#25567E"
+                             WidthRequest="30"
+                             HeightRequest="30"
+                             RelativeLayout.XConstraint="{ConstraintExpression Type=RelativeToView, ElementName=boxUm, Property=X, Factor=1, Constant=12}"
+                             RelativeLayout.YConstraint="{ConstraintExpression Type=RelativeToView, ElementName=boxUm, Property=Y, Factor=1, Constant=12}" />
+                    <BoxView BackgroundColor="#4E93CB"
+                             WidthRequest="30"
+                             HeightRequest="30"
+                             RelativeLayout.XConstraint="{ConstraintExpression Type=RelativeToView, ElementName=boxDois, Property=X, Factor=1, Constant=12}"
+                             RelativeLayout.YConstraint="{ConstraintExpression Type=RelativeToView, ElementName=boxDois, Property=Y, Factor=1, Constant=12}" />
+                </RelativeLayout>
+                <Label Text="Empresa"
+                       VerticalOptions="Center"
+                       HorizontalOptions="CenterAndExpand"
+                       TextColor="Black"
+                       FontSize="48" />
+            </StackLayout>
+            <StackLayout HorizontalOptions="CenterAndExpand"
+                         VerticalOptions="CenterAndExpand">
+                <Label
+                    HorizontalTextAlignment="Center"
+                    VerticalTextAlignment="Center"
+                    Text="Comprada pela Microsoft em 2016.
+                       Desenvolve tecnologia multiplataformaque funcionam principalmente no Android, iOS e UWP." />
+            </StackLayout>
+        </StackLayout>
     </ContentPage.Content>
 </ContentPage>
